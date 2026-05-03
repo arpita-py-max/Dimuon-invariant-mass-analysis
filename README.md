@@ -21,6 +21,5 @@ Measured Z boson peak near 90.82 GeV with detector resolution sigma ≈ 2.21 GeV
 Tools Used
 
 Python, Pandas, NumPy, Matplotlib, SciPy
-
 Author
 Arpita
